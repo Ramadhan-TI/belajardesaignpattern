@@ -1,4 +1,1 @@
-# belajardesaignpattern
-
-
-# analisa dari strategy pattern
+# Analisa Strategy
